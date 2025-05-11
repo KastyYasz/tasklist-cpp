@@ -3,19 +3,13 @@
 A simple command-line task manager built in C++. You can add, list, remove, complete, and edit tasks — and now all your tasks are saved in a tarefas.txt file, so your progress is preserved between runs!
 ✅ Features
 
-    Add new tasks
-
-    List all tasks
-
-    Remove specific tasks
-
-    Mark tasks as completed
-
-    Edit tasks
-
-    Clear all tasks
-
-    Persistent storage using a .txt file
+    - ✅ Add new tasks  
+- 🗑️ Remove tasks  
+- 📋 View all tasks  
+- ✏️ Edit tasks  
+- 🎉 Mark tasks as completed  
+- 🧹 Clear all tasks  
+- 🚪 Exit the application
 
 💾 Persistent Storage
 
@@ -28,3 +22,7 @@ g++ -o tasklist main.cpp
 
    git clone https://github.com/kastyasz/tasklist-cpp.git
    cd tasklist-cpp
+   
+## License
+
+This project is licensed under the [MIT License](LICENSE).
