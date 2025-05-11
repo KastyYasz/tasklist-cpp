@@ -55,7 +55,7 @@ vector<string> tarefas; // array de tamanho indefinido//
 carregarTarefas(tarefas); 
 string novaTarefa; // adicionar nova tarefa //
 
-bool continuar = true; // deixar o loop rodando até escolher sair nessa porra//
+bool continuar = true; // deixar o loop rodando até escolher sair 
 
 
 while (continuar)
